@@ -1,0 +1,3 @@
+C:/Users/PC/3/2_Laba/build/CMakeFiles/main.dir
+C:/Users/PC/3/2_Laba/build/CMakeFiles/edit_cache.dir
+C:/Users/PC/3/2_Laba/build/CMakeFiles/rebuild_cache.dir

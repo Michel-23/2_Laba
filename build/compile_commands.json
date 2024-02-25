@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/PC/3/2_Laba/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -std=c++17 -g -o CMakeFiles\\main.dir\\drobnew.cpp.obj -c C:\\Users\\PC\\3\\2_Laba\\drobnew.cpp",
+  "file": "C:/Users/PC/3/2_Laba/drobnew.cpp",
+  "output": "CMakeFiles/main.dir/drobnew.cpp.obj"
+}
+]
